@@ -14,15 +14,10 @@ Welcome to SkyVue, your go-to Progressive Web Application for quick and accurate
 - **User-Friendly Interface:** SkyVue offers an intuitive and easy-to-use interface for a seamless user experience.
 - **Progressive Web App:** Enjoy the benefits of a PWA, including offline functionality and easy installation.
 - **Responsive Design:** Access SkyVue on any device, from desktop to mobile, with a consistent and visually appealing layout.
+- **Service Workers:** Implemented custom service workers to enable offline functionality and improve app performance in challenging network conditions.
+- **Caching Strategies:** Designed and implemented caching strategies to store and retrieve weather data, allowing the app to function without an internet connection.
 
 ## Technologies Used
 
-- **React:** SkyVue is built using the React framework, ensuring a responsive and interactive user interface.
+** React, Service Workers, API Integration, Lighthouse, Webpack/Babel, HTML5/CSS3, User-Centric Design, Cross-Browser Compatibility.** 
 
-## Installation
-
-To run SkyVue locally on your machine, follow these simple steps:
-
-1. Clone this repository to your local environment:
-   ```bash
-   git clone https://github.com/yourusername/skyvue-weather-pwa.git
