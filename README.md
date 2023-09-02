@@ -3,6 +3,7 @@
 Welcome to SkyVue, your go-to Progressive Web Application for quick and accurate weather updates. With SkyVue, you can easily check the temperature and weather conditions for any location.
 
 
+![skyvue](https://github.com/anshita-21/SkyVue/assets/140099324/4e8338dc-624a-4109-9ab8-d983f2b6c458)
 
 
 
