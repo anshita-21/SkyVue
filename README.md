@@ -19,5 +19,5 @@ Welcome to SkyVue, your go-to Progressive Web Application for quick and accurate
 
 ## Technologies Used
 
-** React, Service Workers, API Integration, Lighthouse, Webpack/Babel, HTML5/CSS3, User-Centric Design, Cross-Browser Compatibility.** 
+React, Service Workers, API Integration, Lighthouse, Webpack/Babel, HTML5/CSS3, User-Centric Design, Cross-Browser Compatibility.
 
